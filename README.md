@@ -39,16 +39,6 @@ Jogo_da_Velha/
 
 └─ styles.css
 
-
----
-
-## ✅ Checklist (Molde João Albero v1.0)
-- [x] README bilíngue (PT-BR/EN)
-- [x] LICENSE (MIT)
-- [ ] Tópicos do GitHub
-- [ ] Release inicial `v1.0.0` com descrição PT/EN
-- [ ] Actions (apenas se necessário — aqui não precisa)
-
 ---
 
 ## 📄 Licença | License
