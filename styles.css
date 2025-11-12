@@ -1,0 +1,55 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 2px;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.board div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.board div:hover {
+    background-color: #eee;
+}
+body{
+    background: url('images/espaco.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+#container{
+display: inline-block; 
+padding: 20px;
+border: 2px solid #000; 
+border-radius: 10px;
+background-color: rgb(88, 33, 160);
+box-shadow: 0 0 10px rgb(255, 255, 255);
+}
+
+.content{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
